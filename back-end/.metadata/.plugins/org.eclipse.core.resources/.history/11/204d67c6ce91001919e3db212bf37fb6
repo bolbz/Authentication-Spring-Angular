@@ -1,0 +1,5 @@
+package com.example.tutojwt.repository;
+
+public interface RoleRepository {
+
+}

@@ -1,0 +1,5 @@
+package com.example.tutojwt.message.request;
+
+public class LoginForm {
+
+}

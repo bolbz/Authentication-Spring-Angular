@@ -1,0 +1,8 @@
+spring.datasource.url=jdbc:mysql://localhost:3306/authtest?useSSL=false
+spring.datasource.username=root
+spring.datasource.password=agentcamion28
+spring.jpa.generate-ddl=true
+ 
+# App Properties
+bolbz.app.jwtSecret=jwtBolbzSecretKey
+bolbz.app.jwtExpiration=86400

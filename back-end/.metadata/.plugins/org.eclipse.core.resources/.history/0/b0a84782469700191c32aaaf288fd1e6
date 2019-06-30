@@ -1,0 +1,4 @@
+package com.example.tutojwt.security;
+
+public class UserDetailsServiceImpl {
+}
